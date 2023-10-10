@@ -19,22 +19,18 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
-
-### Languages and Tools 🛠 
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,jquery,react,redux,saga&perline=14" />
-
-
-<br/>
+<h3 align="center"> Languages and Tools </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,jquery,react,redux,dotnet,cs,java,&perline=14" />
+  </a>
+</p>
 
 ---
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h3 align="center"> Github Statistics </h3>
   
   <div align="center"> 
      <a href="">
@@ -45,21 +41,4 @@
     </a>
 </div
 
-<br/>
 
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
-
-
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
