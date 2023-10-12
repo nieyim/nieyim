@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https:/novatorem-six-jade.vercel.app/api/spotify)](https://open.spotify.com/user/31hadefsewwk5c2iklh6xd7chl4e?si=5a052a12e4114604)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hadefsewwk5c2iklh6xd7chl4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ---
