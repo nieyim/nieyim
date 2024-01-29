@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" />
 
 ## About me
-- :school: I'm a final year IT student, and I'm excited to graduate soon
-- 📚 I'm currently learning all about web development, particularly working as an intern in the front-end development field. I'm gaining practical experience that I hope will serve me well in my future career.
+- :school: As a final year IT student, I find myself on the brink of an exciting milestone: graduation.
+- 📚 Currently, I'm immersed in the world of web development, focusing particularly on front-end development as I intern in this field. Alongside honing my skills in that, I'm eager to expand my knowledge to include software testing, back-end or business analyst. I believe that gaining practical experience in these fields will complement my existing skills and greatly benefit my future career.
 - 💪🏼 Future Goals: My main goal is to become a better programmer in the future. I want to keep improving my coding skills, learn new technologies, and stay up to date with the latest developments in the IT industry.
-- ⚡ Fun fact: When I'm not busy with my studies or coding, I enjoy playing games, tinkering on my piano, and watching movies. It's a great way for me to relax and unwind. As for my personality, I've been told I'm generous, kind, sensitive, and cute. 😊
+- ⚡ Fun fact: During moments when I'm not engrossed in my studies or coding projects, I find solace in playing games, experimenting with melodies on my piano, and indulging in movies. These activities offer me a delightful escape, providing a chance to unwind and recharge amidst the demands of daily life.
 
 
 
