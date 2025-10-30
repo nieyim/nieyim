@@ -20,7 +20,7 @@
 ## Languages and Tools 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,jquery,react,redux,materialui,dotnet,cs,java,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,jquery,react,redux,materialui,tailwind,dotnet,cs,java,spring,py,flutter,mysql&perline=14" />
   </a>
 </p>
 
